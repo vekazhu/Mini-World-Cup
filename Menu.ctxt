@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\n\ Write\ a\ description\ of\ class\ Menu\ here.\n\n\ @Weijia\ ZHU\ \n\ @13/May/2018\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\n\ \n
+comment2.params=newOption
+comment2.target=Menu(java.lang.String)
+comment3.params=
+comment3.target=void\ displayMenu()
+comment4.params=
+comment4.target=java.lang.String\ menuScanner()
+numComments=5

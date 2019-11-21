@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RandomGoalGenerator
+comment0.text=\n\ This\ class\ is\ a\ generator\ that\ will\ generate\ random\ goals\ for\ each\ team\ in\ the\ game.\n\n\ @Weijia\ ZHU\n\ @04/May/2018\n
+comment1.params=
+comment1.target=RandomGoalGenerator()
+comment1.text=\n\ The\ default\ constructor\ for\ class\ RandomGoalGenerator.\n
+comment2.params=newRandomGoal
+comment2.target=RandomGoalGenerator(java.util.Random)
+comment2.text=\n\ \n
+comment3.params=
+comment3.target=java.lang.String\ displayRandomGoal()
+comment4.params=min\ max
+comment4.target=int\ generateRandomGoal(int,\ int)
+comment5.params=
+comment5.target=int\ generateRandomUpset()
+comment6.params=
+comment6.target=java.util.Random\ getRandomGoal()
+comment7.params=newRandomGoal
+comment7.target=void\ setRandomGoal(java.util.Random)
+numComments=8

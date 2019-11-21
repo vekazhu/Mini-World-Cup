@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FileProcesser
+comment0.text=\n\ The\ Team\ class\ stores\ information\ about\ the\ name\ and\ rank\ of\ the\ team,\ also\ two\ players\ that\ will\ play\ for\ the\ team.\n\ The\ relatice\ methods\ to\ get\ and\ set\ values\ of\ four\ attributes.\n\n\ @Weijia\ ZHU\ \n\ @10/May/2018\n
+comment1.params=
+comment1.target=FileProcesser()
+comment1.text=\n\ \n
+comment2.params=newFilename
+comment2.target=FileProcesser(java.lang.String)
+comment3.params=fileName
+comment3.target=java.util.ArrayList\ readLinesFromFile(java.lang.String)
+numComments=4

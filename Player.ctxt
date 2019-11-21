@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ The\ player\ class\ stores\ information\ about\ players'\ names\ and\ goals\ they\ scored.\ Also\ the\ ralative\ method\ to\ get\ and\n\ set\ their\ names\ and\ goals.\n\n\ @Weijia\ ZHU\n\ @03/May/2018\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Default\ constructor\ to\ initialize\ the\ objects,\ and\ to\ assign\ default\ values\ to\ attributes.\n
+comment2.params=newPlayerName\ newPlayerGoal
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\n\ Non-default\ constructor\ to\ accept\ values\ for\ attributes\ of\ objects.\n
+comment3.params=
+comment3.target=java.lang.String\ displayPlayer()
+comment4.params=
+comment4.target=int\ getGoal()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=newPlayerGoal
+comment6.target=void\ setGoal(int)
+comment7.params=newPlayerName
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=void\ nameScanner()
+numComments=9
